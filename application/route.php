@@ -38,6 +38,7 @@ Route::rule('/api/v1/index/update/providerscore','Order/provider_score');//客�
 Route::rule('/api/v1/index/select/imglist','Index/provider_img_list');//查询技师的详情图片
 
 Route::rule('/api/v1/autoPublish/publish','AutoPublish/publish');//自动发帖
+Route::rule('/api/v1/autoPublish/save','PushConfig/Save');//自动发帖
 
 
 

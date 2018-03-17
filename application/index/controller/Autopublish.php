@@ -12,7 +12,6 @@ include_once "CurlMethod.php";
 
 class AutoPublish
 {
-
     /*
      * 登录
      * 参数：用户名,密码
